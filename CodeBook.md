@@ -1,4 +1,4 @@
-# Getting and cleaning data course project Cook Book
+# Getting and cleaning data course project Code Book
 
 ## Overview
 
